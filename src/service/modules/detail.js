@@ -1,0 +1,1 @@
+export { getDetailInfos } from '@/api'
